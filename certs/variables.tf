@@ -40,6 +40,7 @@ variable "ami_region_lookup" {
 
   default = {
     us-east-1      = "ami-d66995bb"
+    us-east-2      = "ami-2a60454f"
     ap-northeast-1 = "ami-4803ec29"
     us-west-2      = "ami-4308a323"
   }
